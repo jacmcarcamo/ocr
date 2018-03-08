@@ -37,10 +37,10 @@
     <meta content="https://avatars2.githubusercontent.com/u/2810941?s=400&amp;v=4" property="og:image" /><meta content="GitHub" property="og:site_name" /><meta content="object" property="og:type" /><meta content="GoogleCloudPlatform/nodejs-docs-samples" property="og:title" /><meta content="https://github.com/GoogleCloudPlatform/nodejs-docs-samples" property="og:url" /><meta content="nodejs-docs-samples - Node.js samples for Google Cloud Platform products." property="og:description" />
 
   <link rel="assets" href="https://assets-cdn.github.com/">
-  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MjQ0Nzk1OTY1OmQyYjdmZjdjYmZhN2NjMzc0ZjgxZjUyMTJmODgzNTNlNTJmZTJlNDMyNmEwZmE0OTUxOTAwMzhlYWQ5ZGVmNGU=--38ac774bffd51f503ae27830896c97c9b6ad7e64">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MjQ0Nzk1OTY1OjBiMzE0NWM1MTg1NGU5NGQ5ZDliNTIxZDllYWQ3ZWQ0ZjI2ZjhjNjc0NzA1NTYwM2FjZDEyMmIwYTdlZTU1ZmQ=--e4841bd54155aa403e43d32a1ac89bab954ff6d2">
   <meta name="pjax-timeout" content="1000">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
-  <meta name="request-id" content="FDB5:477B:AACF9F:13F0EBD:5AA1B60F" data-pjax-transient>
+  <meta name="request-id" content="FF9F:477C:D6FF38:18C4E61:5AA1C7A7" data-pjax-transient>
   
 
   <meta name="selected-link" value="repo_source" data-pjax-transient>
@@ -50,7 +50,7 @@
   <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
     <meta name="google-analytics" content="UA-3769691-2">
 
-<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="https://collector.githubapp.com/github-external/browser_event" name="octolytics-event-url" /><meta content="FDB5:477B:AACF9F:13F0EBD:5AA1B60F" name="octolytics-dimension-request_id" /><meta content="iad" name="octolytics-dimension-region_edge" /><meta content="iad" name="octolytics-dimension-region_render" /><meta content="33130713" name="octolytics-actor-id" /><meta content="jacmcarcamo" name="octolytics-actor-login" /><meta content="5bf4e7235f7dfa12c22b7c70b737fd92d44ec1c03e2ec536fa9916392cfc0c77" name="octolytics-actor-hash" />
+<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="https://collector.githubapp.com/github-external/browser_event" name="octolytics-event-url" /><meta content="FF9F:477C:D6FF38:18C4E61:5AA1C7A7" name="octolytics-dimension-request_id" /><meta content="iad" name="octolytics-dimension-region_edge" /><meta content="iad" name="octolytics-dimension-region_render" /><meta content="33130713" name="octolytics-actor-id" /><meta content="jacmcarcamo" name="octolytics-actor-login" /><meta content="5bf4e7235f7dfa12c22b7c70b737fd92d44ec1c03e2ec536fa9916392cfc0c77" name="octolytics-actor-hash" />
 <meta content="https://github.com/hydro_browser_events" name="hydro-events-url" />
 <meta content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" name="analytics-location" />
 
@@ -66,7 +66,7 @@
     <meta name="user-login" content="jacmcarcamo">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="YmYyNmQ3YWUzY2I2OGZlODUxNWMxMmEwMDRjNTcyZjVhZWRmOWQ3NTgxMzQ3NWM3NDA1ODNhNmM1YzgyYjhhZXx7InJlbW90ZV9hZGRyZXNzIjoiMjE3LjIxNi4xNjguOTUiLCJyZXF1ZXN0X2lkIjoiRkRCNTo0NzdCOkFBQ0Y5RjoxM0YwRUJEOjVBQTFCNjBGIiwidGltZXN0YW1wIjoxNTIwNTQ3MzUzLCJob3N0IjoiZ2l0aHViLmNvbSJ9">
+    <meta name="js-proxy-site-detection-payload" content="YjcwNGRiNDRmZTlhY2RjNDFhMjRiYTEzZDEzMDZlMmU5MTQ2MWVjMzc3MGEyMmYwM2NiMmI5NmIyNjhhMDE5Y3x7InJlbW90ZV9hZGRyZXNzIjoiMjE3LjIxNi4xNjguOTUiLCJyZXF1ZXN0X2lkIjoiRkY5Rjo0NzdDOkQ2RkYzODoxOEM0RTYxOjVBQTFDN0E3IiwidGltZXN0YW1wIjoxNTIwNTUxODUyLCJob3N0IjoiZ2l0aHViLmNvbSJ9">
 
     <meta name="enabled-features" content="UNIVERSE_BANNER,FREE_TRIALS,MARKETPLACE_INSIGHTS,MARKETPLACE_INSIGHTS_CONVERSION_PERCENTAGES,JS_ROLLUP">
 
@@ -260,7 +260,7 @@
           Settings
         </a></li>
 
-        <li><!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="MfySkmqZxgEYCKj1+nW+hMjliaQ0UIrGj6ihlXvzIViuespO1CUTZ+3OSi8/Lx9GdCS/ViBDs0THBnOKEpByfg==" /></div>
+        <li><!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="9ZUzpbfWQ24U5YHmHRJ5u7heGD9dEEf5K4g7PacvPkRqE2t5CWqWCOEjYzzYSNh5BJ8uzUkDfntjJukizkxtYg==" /></div>
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -272,7 +272,7 @@
 
 
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="sr-only right-0" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="31n7AEIFFVxIF2EYmFzMyu/cQVnBYQ7FgyqHz0OZadFA36Pc/LnAOr3Rg8JdBm0IUx13q9VyN0fLhFXQKvo69w==" /></div>
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="sr-only right-0" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="Dxl0IVIZ+sfpOrM+gjE6uf4hh6UpEchtd18olKq9sRyQnyz97KUvoRz8UeRHa5t7QuCxVz0C8e8/8fqLw97iOg==" /></div>
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -310,7 +310,7 @@
 
       <ul class="pagehead-actions">
   <li>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="4ujx3pSgkWcwwNAEIeBphQ4kHj1twrzpnTTWynbcfipidVbJkW2DKNEPuX9067Yt8CP5RDekQotFWC1mnTaUYA==" /></div>      <input class="form-control" id="repository_id" name="repository_id" type="hidden" value="35065891" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="Kf2BrZwbDAkXD2rd88ARQmgQuMjg2gkRlgrLypZmCk6pYCa6mdYeRvbAA6amy87qlhdfsbq893NOZjBmfYzgBA==" /></div>      <input class="form-control" id="repository_id" name="repository_id" type="hidden" value="35065891" />
 
         <div class="select-menu js-menu-container js-select-menu">
           <a href="/GoogleCloudPlatform/nodejs-docs-samples/subscription"
@@ -390,7 +390,7 @@
   <li>
     
   <div class="js-toggler-container js-social-container starring-container ">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/GoogleCloudPlatform/nodejs-docs-samples/unstar" class="starred js-social-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="9fYCiGDZQTdPxzozkZ8dHnBoZs4L2IdxTJTV8RxCcHVZb/2xQM35Thl6DiKgE4MvWdEE8oBbJTDtW+hkP8N6ZQ==" /></div>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/GoogleCloudPlatform/nodejs-docs-samples/unstar" class="starred js-social-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="Pgj8z16rEAPpKf4SubSyQIu45Db+RkqWPAq3Gz19sYySkQP2fr+oer+UygOIOCxxogGGCnXF6NedxYqOHvy7nA==" /></div>
       <input type="hidden" name="context" value="repository"></input>
       <button
         type="submit"
@@ -401,11 +401,11 @@
         Unstar
       </button>
         <a class="social-count js-social-count" href="/GoogleCloudPlatform/nodejs-docs-samples/stargazers"
-           aria-label="960 users starred this repository">
-          960
+           aria-label="961 users starred this repository">
+          961
         </a>
 </form>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/GoogleCloudPlatform/nodejs-docs-samples/star" class="unstarred js-social-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="pISlDa9efMITSI/UwQ8d62CLM0s9SN71FL3kU42cNUainzsaryAdWT2/ykVJrHzbAOZF2h43onuTHqPQ2x3Cew==" /></div>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/GoogleCloudPlatform/nodejs-docs-samples/star" class="unstarred js-social-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="Gz4re1gqppwVMLfaJ34OV6pEzZruQJsSUyyHfYwL+54dJbVsWFTHBzvH8kuv3W9nyim7C80/55zUj8D+2ooMow==" /></div>
       <input type="hidden" name="context" value="repository"></input>
       <button
         type="submit"
@@ -416,15 +416,15 @@
         Star
       </button>
         <a class="social-count js-social-count" href="/GoogleCloudPlatform/nodejs-docs-samples/stargazers"
-           aria-label="960 users starred this repository">
-          960
+           aria-label="961 users starred this repository">
+          961
         </a>
 </form>  </div>
 
   </li>
 
   <li>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/GoogleCloudPlatform/nodejs-docs-samples/fork" class="btn-with-count" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="LXPwLSCR0kulnLY/Ol4qh0KeBlcwuet61upwyLL3duBeo31UrUkFwOn/MYU3vsmVHxXZT+xi4NeM0JrrWPqzFw==" /></div>
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/GoogleCloudPlatform/nodejs-docs-samples/fork" class="btn-with-count" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="8tyENdCvvAeA0Ox1UfZaJn2iCgTGq9f+rF4DTTDw76mBDAlMXXdrjMyza89cFrk0ICnVHBpw3FP2ZOlu2v0qXg==" /></div>
             <button
                 type="submit"
                 class="btn btn-sm btn-with-count"
@@ -783,13 +783,13 @@
             <svg aria-hidden="true" class="octicon octicon-device-desktop" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"/></svg>
         </a>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/GoogleCloudPlatform/nodejs-docs-samples/edit/master/functions/ocr/app/index.js" class="inline-form js-update-url-with-hash" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="hPeRuA7culRoQ2tTm9bMoV5P12gexkgkhkyP+vCX0U+7NeimK9pckA+lyckztt/8n5MxEmDCaeUOP3jnC8+7pg==" /></div>
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/GoogleCloudPlatform/nodejs-docs-samples/edit/master/functions/ocr/app/index.js" class="inline-form js-update-url-with-hash" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="z7mclYVkzMVxHnWmnmr3eE1o2pbtJhg/QStj9UNcn+7we+WLoGIqARb41zw2CuQljLQ87JMiOf7JWJTouAT1Bw==" /></div>
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
               <svg aria-hidden="true" class="octicon octicon-pencil" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
             </button>
 </form>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/GoogleCloudPlatform/nodejs-docs-samples/delete/master/functions/ocr/app/index.js" class="inline-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="jPjh3/h/zOIEZTRTATu6mKUGjusf+5V8yjfmt5mqbxCs7RPUw3MbFAKb78xoVVAg/t4nqACmrzl24WwIwm3zUA==" /></div>
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/GoogleCloudPlatform/nodejs-docs-samples/delete/master/functions/ocr/app/index.js" class="inline-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="5fJRq4QdZCcEubLLXTiu1Vs74zHYqBbrBgNDTglqp8/F56OgvxGz0QJHaVQ0VkRtAONKcsf1LK661cnxUq07jw==" /></div>
           <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
             aria-label="Fork this project and delete the file" data-disable-with>
             <svg aria-hidden="true" class="octicon octicon-trashcan" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
@@ -1786,7 +1786,7 @@
 <div class="footer container-lg px-3" role="contentinfo">
   <div class="position-relative d-flex flex-justify-between py-6 mt-6 f6 text-gray border-top border-gray-light ">
     <ul class="list-style-none d-flex flex-wrap ">
-      <li class="mr-3">&copy; 2018 <span title="0.36271s from unicorn-1788993741-lpdk9">GitHub</span>, Inc.</li>
+      <li class="mr-3">&copy; 2018 <span title="0.29446s from unicorn-2998825271-c5g8s">GitHub</span>, Inc.</li>
         <li class="mr-3"><a href="https://help.github.com/articles/github-terms-of-service/" data-ga-click="Footer, go to terms, text:terms">Terms</a></li>
         <li class="mr-3"><a href="https://github.com/site/privacy" data-ga-click="Footer, go to privacy, text:privacy">Privacy</a></li>
         <li class="mr-3"><a href="https://help.github.com/articles/github-security/" data-ga-click="Footer, go to security, text:security">Security</a></li>
